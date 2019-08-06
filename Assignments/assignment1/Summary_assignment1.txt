@@ -1,0 +1,7 @@
+The programing assignments share a central theme-creating a mock online store.
+The first programming Assignment is about creating an introductory screen that
+greets the customer and introduces them to the line of products.
+My first programing assignment contains:
+A nicely formated greeting message and intrdocutction to line of products 
+(3 lines long). The program then, reads a value (coupon number) from the user,
+and later displays in the introductory message.
